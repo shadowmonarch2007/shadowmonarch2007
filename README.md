@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" width="450px" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;" alt="Tharun Kanna - Shadow Monarch"/>
+  <img src="https://media.tenor.com/B7x2mN_Q3nEAAAAC/solo-leveling-sung-jin-woo.gif" width="500px" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;" alt="Tharun Kanna - Shadow Monarch"/>
   <br/><br/>
   
   <h1 align="center">[ THARUN KANNA ]</h1>
+  
   <p align="center">
-    <a href="https://github.com/shadowmonarch2007">
-      <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=[+CLASS:+RANK+S+—+EMBEDDED+MONARCH+];[+STATUS:+AWAKENED+];[+10+BILLION+PERCENT+CERTAIN+]" alt="Typing SVG" />
-    </a>
+    <strong>[ CLASS: RANK S — EMBEDDED SYSTEMS MONARCH ]</strong> <br/><br/>
+    <code>SYSTEM ARCHITECTURE</code> | <code>ROBOTICS</code> | <code>AI MODELS</code> | <code>AEROSPACE</code>
   </p>
   
   <p align="center">
-    <code>SYSTEM ARCHITECTURE</code> | <code>ROBOTICS</code> | <code>AI MODELS</code> | <code>AEROSPACE</code>
+    <i>[ STATUS: AWAKENED. ]</i>
   </p>
   
   <p align="center">
@@ -30,7 +30,7 @@
 
 <div align="center">
   <h3>[ COMMAND: ARISE ]</h3>
-  <img src="https://media.giphy.com/media/tsKTi6lwlUcSofS8O2/giphy.gif" width="48%" alt="Senku 10 Billion Percent"/>
+  <img src="https://media.giphy.com/media/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" width="48%" alt="Shadow Monarch"/>
   &nbsp;
   <img src="https://media.giphy.com/media/FCa6hZaIkSLqHZB2rO/giphy.gif" width="48%" alt="Igris The Marshal"/>
 </div>

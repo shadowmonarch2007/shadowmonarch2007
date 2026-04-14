@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="sung-jin-woo-darkness.1920x1080.mp4" autoplay loop muted width="800" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;"></video>
+  <video src="https://raw.githubusercontent.com/shadowmonarch2007/shadowmonarch2007/main/sung-jin-woo-darkness.1920x1080.mp4" autoplay loop muted playsinline width="800"></video>
   <br/><br/>
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=55&pause=3000&color=8B00FF&center=true&vCenter=true&width=800&height=100&lines=[+THARUN+KANNA+]" alt="THARUN KANNA" />

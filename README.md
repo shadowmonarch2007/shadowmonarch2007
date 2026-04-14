@@ -86,13 +86,13 @@
 ### [ SYSTEM LOG: PLAYER STATS ]
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shadowmonarch2007&show_icons=true&theme=midnight-purple&hide_bg=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&rank_icon=percentile&custom_title=Tharun+Power+Level" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmonarch2007&theme=midnight-purple&hide_border=true&background=00000000&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shadowmonarch2007&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&rank_icon=percentile&custom_title=Tharun+Power+Level" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmonarch2007&theme=midnight-purple&hide_border=true&background=0d1117&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7" />
 </div>
 <br/>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowmonarch2007&layout=compact&theme=midnight-purple&hide_bg=true&hide_border=true&title_color=A855F7&text_color=ffffff&custom_title=Arsenals+Equipped" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=shadowmonarch2007&theme=darkhub&no-frame=true&no-bg=true&column=4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowmonarch2007&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true&title_color=A855F7&text_color=ffffff&custom_title=Arsenals+Equipped" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=shadowmonarch2007&theme=darkhub&no-frame=true&column=4&margin-w=15" />
 </div>
 
 <br/>

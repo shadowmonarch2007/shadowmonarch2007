@@ -16,13 +16,13 @@
   
   <p align="center">
     <a href="https://github.com/shadowmonarch2007" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" />
+    </a> &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/tharun-kanna-a7a036330/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+    </a> &nbsp;&nbsp;&nbsp;
     <a href="mailto:tarunbabu376@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Email" />
     </a>
   </p>
 </div>
@@ -53,13 +53,12 @@
 
 **[ CORE LOGIC: S-RANK ]**
 <p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=red" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br/>
-  <code>CIRCUIT DESIGN</code> <code>SENSOR INTEGRATION</code> <code>REAL-TIME SYSTEMS</code> <code>MICROCONTROLLERS</code> <code>IOT DEVELOPMENT</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="Raspberry Pi" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" alt="C" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" />
+  <br/><br/>
+  <code>CIRCUIT DESIGN</code> <code>SENSOR INTEGRATION</code> <code>REAL-TIME SYSTEMS</code> <code>MICROCONTROLLERS</code> <code>ESP32</code> <code>IOT DEVELOPMENT</code>
 </p>
 
 **[ SENSOR FUSION & AI: A-RANK ]**
@@ -69,11 +68,11 @@
 
 **[ WEB INFRASTRUCTURE: B-RANK ]**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" />
 </p>
 
 ---
@@ -87,12 +86,12 @@
 ### [ SYSTEM LOG: PLAYER STATS ]
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shadowmonarch2007&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0d0d0d&rank_icon=percentile&custom_title=Tharun+Power+Level" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmonarch2007&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shadowmonarch2007&show_icons=true&theme=midnight-purple&hide_bg=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&rank_icon=percentile&custom_title=Tharun+Power+Level" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmonarch2007&theme=midnight-purple&hide_border=true&background=00000000&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7" />
 </div>
 <br/>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowmonarch2007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&custom_title=Arsenals+Equipped" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowmonarch2007&layout=compact&theme=midnight-purple&hide_bg=true&hide_border=true&title_color=A855F7&text_color=ffffff&custom_title=Arsenals+Equipped" />
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=shadowmonarch2007&theme=darkhub&no-frame=true&no-bg=true&column=4" />
 </div>
 

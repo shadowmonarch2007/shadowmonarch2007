@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/tsKTi6lwlUcSofS8O2/giphy.gif" width="450px" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;" alt="Tharun Kanna - Senku Ishigami"/>
+  <img src="https://media.giphy.com/media/tsKTi6lwlUcSofS8O2/giphy.gif" width="800px" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;" alt="Tharun Kanna - Senku Ishigami"/>
   <br/><br/>
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=55&pause=3000&color=8B00FF&center=true&vCenter=true&width=800&height=100&lines=[+THARUN+KANNA+]" alt="THARUN KANNA" />
   
   <p align="center">
     <a href="https://github.com/shadowmonarch2007">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=[+CLASS:+RANK+S+—+EMBEDDED+MONARCH+];[+STATUS:+AWAKENED+];[+10+BILLION+PERCENT+CERTAIN+]" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=[+CLASS:+RANK+S+];[+STATUS:+AWAKENED+];[+10+BILLION+PERCENT+CERTAIN+]" alt="Typing SVG" />
     </a>
   </p>
   

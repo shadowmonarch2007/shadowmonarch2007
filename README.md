@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/tsKTi6lwlUcSofS8O2/giphy.gif" width="800px" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;" alt="Tharun Kanna - Senku Ishigami"/>
+  <img src="profile.png" width="800px" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;" alt="Tharun Kanna - Senku Ishigami"/>
   <br/><br/>
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=55&pause=3000&color=8B00FF&center=true&vCenter=true&width=800&height=100&lines=[+THARUN+KANNA+]" alt="THARUN KANNA" />

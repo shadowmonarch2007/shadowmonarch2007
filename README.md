@@ -4,12 +4,13 @@
   
   <h1 align="center">[ THARUN KANNA ]</h1>
   <p align="center">
-    <strong>[ CLASS: RANK S — EMBEDDED SYSTEMS MONARCH ]</strong> <br/><br/>
-    <code>SYSTEM ARCHITECTURE</code> | <code>ROBOTICS</code> | <code>AI MODELS</code> | <code>AEROSPACE</code>
+    <a href="https://github.com/shadowmonarch2007">
+      <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=[+CLASS:+RANK+S+—+EMBEDDED+MONARCH+];[+STATUS:+AWAKENED+];[+10+BILLION+PERCENT+CERTAIN+]" alt="Typing SVG" />
+    </a>
   </p>
   
   <p align="center">
-    <i>STATUS: AWAKENED. 10 BILLION PERCENT CERTAIN.</i>
+    <code>SYSTEM ARCHITECTURE</code> | <code>ROBOTICS</code> | <code>AI MODELS</code> | <code>AEROSPACE</code>
   </p>
   
   <p align="center">

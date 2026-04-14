@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/tsKTi6lwlUcSofS8O2/giphy.gif" width="130px" style="border-radius: 50%; box-shadow: 0 0 20px #A855F7;" alt="Tharun Kanna"/>
+  <img src="https://media.giphy.com/media/tsKTi6lwlUcSofS8O2/giphy.gif" width="450px" style="border-radius: 12px; box-shadow: 0 0 20px #A855F7;" alt="Tharun Kanna"/>
   <br/><br/>
   
   <h1 align="center">THARUN KANNA</h1>
@@ -28,9 +28,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" width="380" alt="Shadow Monarch"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/FCa6hZaIkSLqHZB2rO/giphy.gif" width="380" alt="Igris The Marshal"/>
+  <h3>SHADOW MONARCH — ARISE</h3>
+  <img src="https://media.giphy.com/media/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" width="48%" alt="Shadow Monarch"/>
+  &nbsp;
+  <img src="https://media.giphy.com/media/FCa6hZaIkSLqHZB2rO/giphy.gif" width="48%" alt="Igris The Marshal"/>
 </div>
 
 <br/>

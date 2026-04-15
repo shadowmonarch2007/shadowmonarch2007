@@ -46,12 +46,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" />
   <br/><br/>
-  <code>CIRCUIT DESIGN</code> <code>SENSOR INTEGRATION</code> <code>REAL-TIME SYSTEMS</code> <code>MICROCONTROLLERS</code> <code>ESP32</code> <code>IOT DEVELOPMENT</code>
+  <img src="https://img.shields.io/badge/CIRCUIT_DESIGN-121212?style=for-the-badge&logo=kicad&logoColor=A855F7" alt="Circuit Design" />
+  <img src="https://img.shields.io/badge/SENSOR_INTEGRATION-121212?style=for-the-badge&logo=stmicroelectronics&logoColor=A855F7" alt="Sensor Integration" />
+  <img src="https://img.shields.io/badge/REAL_TIME_SYSTEMS-121212?style=for-the-badge&logo=c%2B%2B&logoColor=A855F7" alt="Real-Time Systems" />
+  <img src="https://img.shields.io/badge/MICROCONTROLLERS-121212?style=for-the-badge&logo=arduino&logoColor=A855F7" alt="Microcontrollers" />
+  <img src="https://img.shields.io/badge/ESP32-121212?style=for-the-badge&logo=espressif&logoColor=A855F7" alt="ESP32" />
+  <img src="https://img.shields.io/badge/IOT_DEVELOPMENT-121212?style=for-the-badge&logo=mqtt&logoColor=A855F7" alt="IoT Development" />
 </p>
 
 **[ SENSOR FUSION & AI: A-RANK ]**
 <p>
-  <code>ROBOTICS</code> <code>ARTIFICIAL INTELLIGENCE</code> <code>NEURAL NETWORKS</code> <code>MACHINE LEARNING</code> <code>SENSOR FUSION</code> <code>AUTONOMOUS SYSTEMS</code> <code>CLOUD INTEGRATION</code> <code>ETL DATA PROCESSING</code>
+  <img src="https://img.shields.io/badge/ROBOTICS-121212?style=for-the-badge&logo=ros&logoColor=A855F7" alt="Robotics" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-121212?style=for-the-badge&logo=openai&logoColor=A855F7" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/NEURAL_NETWORKS-121212?style=for-the-badge&logo=tensorflow&logoColor=A855F7" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-121212?style=for-the-badge&logo=pytorch&logoColor=A855F7" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/SENSOR_FUSION-121212?style=for-the-badge&logo=nvidia&logoColor=A855F7" alt="Sensor Fusion" />
+  <img src="https://img.shields.io/badge/AUTONOMOUS_SYSTEMS-121212?style=for-the-badge&logo=tesla&logoColor=A855F7" alt="Autonomous Systems" />
+  <img src="https://img.shields.io/badge/CLOUD_INTEGRATION-121212?style=for-the-badge&logo=amazonwebservices&logoColor=A855F7" alt="Cloud Integration" />
+  <img src="https://img.shields.io/badge/ETL_DATA_PROCESSING-121212?style=for-the-badge&logo=apachespark&logoColor=A855F7" alt="ETL Data Processing" />
 </p>
 
 **[ WEB INFRASTRUCTURE: B-RANK ]**

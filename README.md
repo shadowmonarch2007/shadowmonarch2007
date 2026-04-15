@@ -67,8 +67,7 @@
   <img src="https://media.tenor.com/P1FCBPRVj1YAAAAd/solo-leveling-arise.gif" width="100%" style="border-radius: 12px; box-shadow: 0 0 15px #8B00FF;" alt="Sung Jin Woo Arise" />
   <br/><br/>
   
-  <code>[ DREAM_QUEST ] REACH SPACE —</code><br/>
-  
+
   <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=30&pause=2000&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=[+FUTURE+KING+OF+ASTRONAUT+ENGINEERS+]" width="100%" alt="Future King of Astronaut Engineers" />
 </div>
 

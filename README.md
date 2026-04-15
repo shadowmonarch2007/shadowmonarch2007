@@ -29,23 +29,7 @@
 
 <br/>
 
-<div align="center">
-  <h3>[ COMMAND: ARISE ]</h3>
-  <table style="border:none;">
-    <tr>
-      <td align="center" style="border:none;">
-        <img src="https://media.giphy.com/media/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" width="380" alt="Shadow Monarch"/><br/>
-        <strong>[ SUNG JIN-WOO : SHADOW MONARCH ]</strong>
-      </td>
-      <td align="center" style="border:none;">
-        <img src="https://media.giphy.com/media/FCa6hZaIkSLqHZB2rO/giphy.gif" width="380" alt="Igris The Marshal"/><br/>
-        <strong>[ IGRIS : THE MARSHAL ]</strong>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br/>
 
 ---
 

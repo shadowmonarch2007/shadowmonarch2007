@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/shadowmonarch2007/shadowmonarch2007/raw/main/sung-jin-woo.gif" width="800px" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;" alt="Sung Jin Woo"/>
+  <img src="https://github.com/shadowmonarch2007/shadowmonarch2007/raw/main/sung-jin-woo.gif" width="100%" style="border-radius: 12px; box-shadow: 0 0 20px #6A0DAD;" alt="Sung Jin Woo"/>
   <br/><br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=55&pause=3000&color=8B00FF&center=true&vCenter=true&width=800&height=100&lines=[+THARUN+KANNA+]" alt="THARUN KANNA" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=55&pause=3000&color=8B00FF&center=true&vCenter=true&width=800&height=100&lines=[+THARUN+KANNA+]" width="100%" alt="THARUN KANNA" />
   
   <p align="center">
     <a href="https://github.com/shadowmonarch2007">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=[+CLASS:+RANK+S+];[+STATUS:+AWAKENED+];[+10+BILLION+PERCENT+CERTAIN+]" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=[+CLASS:+RANK+S+];[+STATUS:+AWAKENED+];[+10+BILLION+PERCENT+CERTAIN+]" width="100%" alt="Typing SVG" />
     </a>
   </p>
   
@@ -63,14 +63,21 @@
 
 ### [ MISSION ASSIGNED: ACTIVE QUESTS ]
 
-- [ DREAM_QUEST ] REACH SPACE — FUTURE KING OF ASTRONAUT ENGINEERS.
+<div align="center">
+  <img src="https://media.tenor.com/P1FCBPRVj1YAAAAd/solo-leveling-arise.gif" width="100%" style="border-radius: 12px; box-shadow: 0 0 15px #8B00FF;" alt="Sung Jin Woo Arise" />
+  <br/><br/>
+  
+  <code>[ DREAM_QUEST ] REACH SPACE —</code><br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=30&pause=2000&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=[+FUTURE+KING+OF+ASTRONAUT+ENGINEERS+]" width="100%" alt="Future King of Astronaut Engineers" />
+</div>
 
 ---
 
 ### [ SYSTEM LOG: PLAYER STATS ]
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmonarch2007&theme=midnight-purple&hide_border=true&background=0d1117&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7" width="600" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmonarch2007&theme=midnight-purple&hide_border=true&background=0d1117&ring=A855F7&fire=FF6B35&currStreakLabel=A855F7" width="100%" alt="GitHub Streak Stats" />
 </div>
 
 <br/>

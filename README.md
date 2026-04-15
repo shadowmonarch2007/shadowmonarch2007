@@ -79,7 +79,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=30&pause=2000&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=[+FUTURE+KING+OF+ASTRONAUT+ENGINEERS+]" width="100%" alt="Future King of Astronaut Engineers" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=30&pause=2000&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=[+FUTURE+KING+OF+ASTRONAUT+]" width="100%" alt="Future King of Astronaut" />
 </div>
 
 ---

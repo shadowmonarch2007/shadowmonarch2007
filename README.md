@@ -10,9 +10,7 @@
     </a>
   </p>
   
-  <p align="center">
-    <code>SYSTEM ARCHITECTURE</code> | <code>ROBOTICS</code> | <code>AI MODELS</code> | <code>AEROSPACE</code>
-  </p>
+
   
   <p align="center">
     <a href="https://github.com/shadowmonarch2007" target="_blank">

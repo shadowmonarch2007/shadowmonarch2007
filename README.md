@@ -6,7 +6,7 @@
   
   <p align="center">
     <a href="https://github.com/shadowmonarch2007">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=[+CLASS:+RANK+S+];[+STATUS:+AWAKENED+];[+10+BILLION+PERCENT+CERTAIN+]" width="100%" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=[+10+BILLION+PERCENT+CERTAIN+]" width="100%" alt="Typing SVG" />
     </a>
   </p>
   

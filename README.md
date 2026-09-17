@@ -95,5 +95,5 @@
 <br/>
 
 <div align="center">
-  <p><i>[ The King who moves alone, levels up the entire universe. ]</i></p>
+
 </div>
